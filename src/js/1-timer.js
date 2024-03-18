@@ -1,5 +1,6 @@
 // Описаний в документації
-import flatpickr from "flatpickr";
+import flatpickr from './path/to/flatpickr';
+
 // Додатковий імпорт стилів
 import "flatpickr/dist/flatpickr.min.css";
 
